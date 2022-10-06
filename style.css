@@ -1,0 +1,60 @@
+.secondary {
+    font-size: 18px,
+}
+
+.darkheading {
+    color: #f9FAF8
+}
+
+.header,
+.title,
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
+
+.quoter {
+    text-align: right;
+    font-size: 30px;
+    font-style:normal;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    padding: 40px;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+button {
+    background-color: #3882F6;
+    border-color: white;
+    color: white;
+}
+
+.footer {
+    text-align: center;
+    font-size: 10px;
+}
+
+.button {
+    background-color: #3882F6;
+    color: #f9FAF8;
+    margin: 50px;
+    padding: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+}
+
